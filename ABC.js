@@ -9,5 +9,5 @@ else {
 }
  
 function fillOrder() {
-    alert("testing")
+    alert(document.getElementById('advSQuery').value)
 }
