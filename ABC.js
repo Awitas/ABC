@@ -10,6 +10,6 @@ else {
  
 function fillOrder() {
     alert(window.frames['ivuFrm_page0ivu2'].contentDocument.getElementById('advSQuery'))
-    'alert(window.frames['cdgcehjplgkpbcjfonkimdfchpdipobp'].contentDocument.getElementById('advSQuery'))  
+    //alert(window.frames['cdgcehjplgkpbcjfonkimdfchpdipobp'].contentDocument.getElementById('advSQuery'))  
     alert(window.frames['isolatedWorkArea'].contentDocument.getElementById('advSQuery'))  
 }
