@@ -9,5 +9,5 @@ else {
 }
  
 function fillOrder() {
-  alert(document.getElementById("advSQuery"));
+  alert(document.getElementById("navNodeAnchor_2_0"));
 }
