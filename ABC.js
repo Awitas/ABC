@@ -9,5 +9,5 @@ else {
 }
  
 function fillOrder() {
-    alert(document.getElementById('advSQuery').value)
+    alert(window.frames['ivuFrm_page0ivu2'].contentDocument.getElementById('advSquery'))
 }
